@@ -208,12 +208,12 @@ footer.row {
   color: #fffefd;
 }
 .outline.green {
-  border-color: #29a598;
-  color: #29a598;
+  border-color: #7A75B5;
+  color: #7A75B5;
 }
 .outline.green:focus,
 .outline.green:hover {
-  background-color: #29a598;
+  background-color: #7A75B5;
   color: #fffefd;
 }
 .outline.white {
