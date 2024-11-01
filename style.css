@@ -284,7 +284,7 @@ footer.row {
 
 .image-container {
   flex: 5;
-  min-width: 300px; /* Define uma largura mínima para evitar encolhimento excessivo */
+  min-width: 60%; /* Define uma largura mínima para evitar encolhimento excessivo */
 }
 
 .image-container img {
