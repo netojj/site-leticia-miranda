@@ -403,10 +403,10 @@ footer.row {
   .navbar-default .navbar-toggle:focus,
   .navbar-default .navbar-toggle:hover {
     background-color: transparent;
-    border-color: #29a598;
+    border-color: #7A75B5;
   }
   .navbar-default .navbar-toggle .active {
-    color: #29a598;
+    color: #7A75B5;
   }
   .navbar-collapse {
     background-color: #fffefd;
