@@ -36,13 +36,13 @@ small {
   line-height: 1;
 }
 a {
-  color: #29a598;
+  color: #7A75B5;
   transition: background-color 0.2s ease-in-out,
               color 0.2s ease-in-out;
 }
 a:focus,
 a:hover {
-  background-color: #29a598;
+  background-color: #7A75B5;
   color: #fffefd;
 }
 hr {
